@@ -11,5 +11,3 @@ const handleListening = () => {
 };
 
 app.listen(PORT, handleListening);
-
-// 7.12 MongoStore 들어야 함
